@@ -36,3 +36,11 @@ jobs:
           downloaded_filename: wars2020.csv
           # A URL containing data to fetch.
           http_url: https://docs.google.com/spreadsheets/d/e/2PACX-1vSr2xYotDgnAq6bqm5Nkjq9voHBKzKNWH2zvTRx5LU0jnpccWykvEF8iB_0g7Tzo2pwzkTuM3ETlr_h/pub?gid=0&single=true&output=csv&headers=0&range=A2:ZZ
+
+      - name: Quarantine HK Data
+        uses: githubocto/flat@v2.0.2
+        with:
+          # The filename to use for writing data.
+          downloaded_filename: occupancy_of_quarantine_centres_eng.csv
+          # A URL containing data to fetch.
+          http_url: www.chp.gov.hk/files/misc/occupancy_of_quarantine_centres_eng.csv
