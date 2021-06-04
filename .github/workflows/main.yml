@@ -43,4 +43,4 @@ jobs:
           # The filename to use for writing data.
           downloaded_filename: occupancy_of_quarantine_centres_eng.csv
           # A URL containing data to fetch.
-          http_url: www.chp.gov.hk/files/misc/occupancy_of_quarantine_centres_eng.csv
+          http_url: https://www.chp.gov.hk/files/misc/occupancy_of_quarantine_centres_eng.csv
