@@ -1670,15 +1670,15 @@ As of date,As of time,Quarantine centres,Address,Capacity (unit),Current unit in
 26/07/2021,9:00,Penny's Bay Quarantine Centre (PB),"Fantasy Road, Penny's Bay, Lantau Island",3500,57,70,1925
 26/07/2021,9:00,Silka Tsuen Wan (STW),"119 Wo Yi Hop Road, Kwai Chung, Kowloon",409,33,36,324
 27/07/2021,9:00,Penny's Bay Quarantine Centre (PB),"Fantasy Road, Penny's Bay, Lantau Island",3500,53,63,1936
-27/07/2021,9:00,Silka Tsuen Wan (STW),"119 Wo Yi Hop Road, Kwai Chung, Kowloon",409,30,33,327 
+27/07/2021,9:00,Silka Tsuen Wan (STW),"119 Wo Yi Hop Road, Kwai Chung, Kowloon",409,30,33,327
 28/07/2021,9:00,Penny's Bay Quarantine Centre (PB),"Fantasy Road, Penny's Bay, Lantau Island",3500,41,50,1952
 28/07/2021,9:00,Silka Tsuen Wan (STW),"119 Wo Yi Hop Road, Kwai Chung, Kowloon",409,28,31,331
 29/07/2021,9:00,Penny's Bay Quarantine Centre (PB),"Fantasy Road, Penny's Bay, Lantau Island",3500,41,51,2323
 29/07/2021,9:00,Silka Tsuen Wan (STW),"119 Wo Yi Hop Road, Kwai Chung, Kowloon",409,29,32,330
 30/07/2021,9:00,Penny's Bay Quarantine Centre (PB),"Fantasy Road, Penny's Bay, Lantau Island",3500,38,47,2336
-30/07/2021,9:00,Silka Tsuen Wan (STW),"119 Wo Yi Hop Road, Kwai Chung, Kowloon",409,29,35,321 
+30/07/2021,9:00,Silka Tsuen Wan (STW),"119 Wo Yi Hop Road, Kwai Chung, Kowloon",409,29,35,321
 31/07/2021,9:00,Penny's Bay Quarantine Centre (PB),"Fantasy Road, Penny's Bay, Lantau Island",3500,38,47,2339
-31/07/2021,9:00,Silka Tsuen Wan (STW),"119 Wo Yi Hop Road, Kwai Chung, Kowloon",409,26,36,317 
+31/07/2021,9:00,Silka Tsuen Wan (STW),"119 Wo Yi Hop Road, Kwai Chung, Kowloon",409,26,36,317
 01/08/2021,9:00,Penny's Bay Quarantine Centre (PB),"Fantasy Road, Penny's Bay, Lantau Island",3500,39,49,2333
 01/08/2021,9:00,Silka Tsuen Wan (STW),"119 Wo Yi Hop Road, Kwai Chung, Kowloon",409,23,32,330
 02/08/2021,9:00,Penny's Bay Quarantine Centre (PB),"Fantasy Road, Penny's Bay, Lantau Island",3500,39,50,2335
@@ -1766,3 +1766,5 @@ As of date,As of time,Quarantine centres,Address,Capacity (unit),Current unit in
 15/09/2021,9:00,Dorsett Kwun Tong (DKT),"84 Hung To Road, Kwun Tong, Kowloon, Hong Kong",361,27,27,308
 16/09/2021,9:00,Penny's Bay Quarantine Centre (PB),"Fantasy Road, Penny's Bay, Lantau Island",1916,84,90,1572
 16/09/2021,9:00,Dorsett Kwun Tong (DKT),"84 Hung To Road, Kwun Tong, Kowloon, Hong Kong",361,27,27,307
+17/09/2021,9:00,Penny's Bay Quarantine Centre (PB),"Fantasy Road, Penny's Bay, Lantau Island ",1916,92,100,1565
+17/09/2021,9:00,Dorsett Kwun Tong  (DKT) ,"84 Hung To Road,  Kwun Tong, Kowloon, Hong Kong ",361,26,26,307
