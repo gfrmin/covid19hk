@@ -2131,8 +2131,8 @@ As of date,As of time,Quarantine centres,Address,Capacity (unit),Current unit in
 07/02/2022,9:00,Cosmo Hotel Hong Kong   ,"375-377 Queen's Road  East, WanChai   ",142,107,195,1
 07/02/2022,9:00,Dorsett Kwun Tong ,"84 Hung To Road,  Kowloon, Hong Kong  Kwun Tong, ",361,294,481,15
 07/02/2022,9:00,Lei Yue Mun Park and  Holiday Village ,"75 Chai Wan Road,  Hong Kong  ",352,151,190,86
-07/02/2022,9:00,Junior Police Call Centre Permanent Activity (JPC),"123 Fan Kam Road, Pat  Heung, Yuen Long ",120,97,98,5
-07/02/2022,9:00,Sai Kung Outdoor Recreation Centre (SKORC) ,"Tui Min Hoi Area, Sai  Kung ",99,58,80,38
+07/02/2022,9:00,Junior Police Call  Centre (JPC)  Permanent Activity ,"123 Fan Kam Road, Pat  Heung, Yuen Long ",120,97,98,5
+07/02/2022,9:00,Sai Kung Outdoor  (SKORC)  Recreation Centre ,"Tui Min Hoi Area, Sai  Kung ",99,58,80,38
 07/02/2022,9:00,Silka Seaview (SSV) ,"268 Shanghai Street,  Yau Ma Tei, Kowloon ",268,182,309,3
 07/02/2022,9:00,Dorsett Mongkok (DMK) ,"88 Tai kok Tsui Road,  Kowloon , Hong Kong ",285,188,290,19
 07/02/2022,9:00,Grand City Hotel  (GCH) ,"338 Queen's Road  West,Hong Kong ",214,146,214,14
@@ -2142,9 +2142,21 @@ As of date,As of time,Quarantine centres,Address,Capacity (unit),Current unit in
 09/02/2022,9:00,Cosmo Hotel Hong Kong   ,"375-377 Queen's Road  East, WanChai   ",142,103,188,2
 09/02/2022,9:00,Dorsett Kwun Tong ,"84 Hung To Road,  Kowloon, Hong Kong  Kwun Tong, ",361,259,405,41
 09/02/2022,9:00,Lei Yue Mun Park and  Holiday Village ,"75 Chai Wan Road,  Hong Kong  ",352,210,264,36
-09/02/2022,9:00,Junior Police Call Centre Permanent Activity (JPC) ,"123 Fan Kam Road, Pat  Heung, Yuen Long ",120,98,99,0
-09/02/2022,9:00,Sai Kung Outdoor Recreation Centre (SKORC) ,"Tui Min Hoi Area, Sai  Kung ",99,50,67,40
+09/02/2022,9:00,Junior Police Call  Centre (JPC)  Permanent Activity ,"123 Fan Kam Road, Pat  Heung, Yuen Long ",120,98,99,0
+09/02/2022,9:00,Sai Kung Outdoor  (SKORC)  Recreation Centre ,"Tui Min Hoi Area, Sai  Kung ",99,50,67,40
 09/02/2022,9:00,Silka Seaview (SSV) ,"268 Shanghai Street,  Yau Ma Tei, Kowloon ",268,177,296,11
 09/02/2022,9:00,Dorsett Mongkok (DMK) ,"88 Tai kok Tsui Road,  Kowloon , Hong Kong ",285,166,255,42
 09/02/2022,9:00,Grand City Hotel  (GCH) ,"338 Queen's Road  West,Hong Kong ",214,118,163,51
 09/02/2022,9:00,Dorsett Tsuen Wan (DTW) ,"28 Kin Chuen Street,  Kwai Chung, Kowloon, Hong Kong ",546,321,495,152
+10/02/2022,12:00,Penny's Bay Quarantine Centre (PB),"Fantasy Road, Penny’s Bay, Lantau Island ",1916,791,1068,453
+10/02/2022,12:00,Silka Tsuen Wan   ,"119 Wo Yi Hop Road,  Kwai Chung, Kowloon ",409,224,369,28
+10/02/2022,12:00,Cosmo Hotel Hong Kong   ,"375-377 Queen's Road  East, WanChai   ",142,103,188,2
+10/02/2022,12:00,Dorsett Kwun Tong ,"84 Hung To Road,  Kowloon, Hong Kong  Kwun Tong, ",361,262,397,42
+10/02/2022,12:00,Lei Yue Mun Park and  Holiday Village ,"75 Chai Wan Road,  Hong Kong  ",352,148,201,57
+10/02/2022,12:00,Junior Police Call  Centre (JPC)  Permanent Activity ,"123 Fan Kam Road, Pat  Heung, Yuen Long ",120,85,86,15
+10/02/2022,12:00,Sai Kung Outdoor  (SKORC)  Recreation Centre ,"Tui Min Hoi Area, Sai  Kung ",99,54,70,38
+10/02/2022,12:00,Silka Seaview (SSV) ,"268 Shanghai Street,  Yau Ma Tei, Kowloon ",268,181,284,10
+10/02/2022,12:00,Dorsett Mongkok (DMK) ,"88 Tai kok Tsui Road,  Kowloon , Hong Kong ",285,198,269,31
+10/02/2022,12:00,Grand City Hotel  (GCH) ,"338 Queen's Road  West,Hong Kong ",214,128,156,49
+10/02/2022,12:00,Dorsett Tsuen Wan (DTW) ,"28 Kin Chuen Street,  Kwai Chung, Kowloon, Hong Kong ",546,334,508,140
+10/02/2022,12:00,Ramada Hong Kong Grand (RHKG) ,"23 Austin Avenue,  TsimShaTsui, Kowloon, Hong Kong ",396,121,176,253
